@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "278912317609",
+    "project_id": "petrescueapp-e0a55",
+    "storage_bucket": "petrescueapp-e0a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278912317609:android:acf572c0abb8204b0391b8",
+        "android_client_info": {
+          "package_name": "com.example.pet_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSc7aH00ldls9eTUjoLEULYer0AVhl9xI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
